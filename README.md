@@ -1,24 +1,7 @@
-### Hi there 👋
-
-<!--
-**jay-guro/jay-guro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## My stats
 
-![jay-guro's Github Stats](https://github-readme-stats.vercel.app/api?username=jay-guro&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4)
+![Brettm12345's Github Stats](https://github-readme-stats.vercel.app/api?username=jay-guro&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4)
 
 ## Top Languages
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-guro&langs_count=8&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-guro&&hide=lua&langs_count=8&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
