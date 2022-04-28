@@ -1,6 +1,6 @@
 ## My stats
 
-![Brettm12345's Github Stats](https://github-readme-stats.vercel.app/api?username=jay-guro&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4)
+![Brettm12345's Github Stats](https://github-readme-stats.vercel.app/api?username=jay-guro&count_private=true&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4)
 
 ## Top Languages
 
