@@ -1,5 +1,3 @@
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
-
 ![jay-guro's Github Stats](https://github-readme-stats.vercel.app/api?username=jay-guro&hide=stars,prs,issues,contribs&count_private=true&show_icons=true&title_color=a9b1d6&text_color=787c99&icon_color=7aa2f7&border_color=1f202e&bg_color=1a1b26&hide_border=false&border_radius=4)
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
@@ -48,3 +46,11 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) 
 ![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
+
+| **Year** | **Check out my skyline!** |
+| ---------------- | ---------------- |
+| **2022** | https://skyline.github.com/jay-guro/2022 |
+| **2021** | https://skyline.github.com/jay-guro/2021 |
+| **2020** | https://skyline.github.com/jay-guro/2020 |
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
