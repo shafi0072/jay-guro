@@ -13,5 +13,4 @@
 
 ## My Languages
 
-[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-guro&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-s
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jay-guro&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
